@@ -4,4 +4,6 @@ APK NRJ MOBILE
 
 https://github.com/lafouine022/nrj_mobile/blob/main/nrj.png
 
+![NRJ](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/nrj.png)
+
 Enregistrer vos identifiants comme l'image!
