@@ -1,6 +1,6 @@
 # APK NRJ Mobile - Mon Compte
 
-![NRJ](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/nrj.png)
+![NRJ](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/nrj.png)
 
 ## Description
 
@@ -35,7 +35,9 @@ Une fois l'application installée, vous pouvez :
 
 ## Capture d'écran
 
-![Capture d'écran de l'application NRJ Mobile - Mon Compte](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/nrj.png)
+![Capture d'écran de l'application NRJ Mobile - Home](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/1.png)
+![Capture d'écran de l'application NRJ Mobile - Config](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/2.jpg)
+![Capture d'écran de l'application NRJ Mobile - Mon Compte](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/3.jpg)
 
 ## Contributions
 
