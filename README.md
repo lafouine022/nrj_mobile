@@ -8,10 +8,10 @@ L'application **NRJ Mobile - Mon Compte** vous permet de gérer votre compte NRJ
 
 ## Fonctionnalités
 
+- Enregistrement de vos login.
 - Consultation de la consommation.
 - Accès aux informations de compte.
 - Gestion des options et services.
-- Notifications en cas de dépassement de quota.
 
 ## Installation
 
