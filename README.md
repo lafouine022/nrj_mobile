@@ -19,7 +19,7 @@ Pour installer l'application NRJ Mobile - Mon Compte, suivez les étapes ci-dess
 
 1. **Téléchargez l'APK :** Cliquez sur le lien ci-dessous pour télécharger l'application.
    
-   [Télécharger l'APK](https://github.com/lafouine022/nrj_mobile/raw/main/nrj.apk)
+   [Télécharger l'APK NRJ MOBILE](https://github.com/lafouine022/nrj_mobile/raw/main/nrj.apk)
 
 2. **Autorisez les sources inconnues :** Allez dans les paramètres de votre appareil Android, puis dans "Sécurité" ou "Confidentialité" et activez l'option "Sources inconnues". Cela vous permettra d'installer des applications en dehors du Google Play Store.
 
