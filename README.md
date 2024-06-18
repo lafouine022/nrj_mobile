@@ -1,8 +1,9 @@
 # NRJ Mobile - Mon Compte - APK 
 
 ![NRJ](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/nrj.png)
-
+![QR-code](https://raw.githubusercontent.com/lafouine022/nrj_mobile/main/images/qr.png)
 ## Description
+
 
 L'application **NRJ Mobile - Mon Compte** vous permet de gérer votre compte NRJ Mobile directement depuis votre appareil Android. Accédez facilement à vos informations de compte, suivez votre consommation, et bien plus encore.
 
